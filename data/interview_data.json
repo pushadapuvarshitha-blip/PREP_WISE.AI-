@@ -1,0 +1,1078 @@
+{
+  "sessions": [
+    {
+      "id": "s-1794375012",
+      "created_at": "2026-11-11T08:30:11",
+      "role": "Java Developer",
+      "experience": "Beginner",
+      "interview_type": "Mixed",
+      "skills": [
+        "Python",
+        "Problem Solving"
+      ],
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": "q-1794375012-0-842",
+          "question": "What is one professional strength you rely on, and when has it made a difference?",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Name a job-relevant strength and prove it with a concise example. Explain the action you took and the result, then connect it to how you would contribute in this role.",
+          "keywords": [
+            "strength",
+            "example",
+            "impact",
+            "role fit"
+          ],
+          "tips": [
+            "Be specific rather than listing several strengths.",
+            "Support the claim with an observable result."
+          ]
+        },
+        {
+          "id": "q-1794375012-1-300",
+          "question": "An API endpoint used by your Java Developer team intermittently returns errors. How would you debug it?",
+          "category": "Scenario",
+          "difficulty": "Medium",
+          "answer": "Establish the error rate and affected requests, correlate logs and traces by request ID, inspect recent changes and dependency health, and reproduce safely. Mitigate user impact first, then fix the root cause and add monitoring or tests to prevent recurrence.",
+          "keywords": [
+            "observability",
+            "request IDs",
+            "mitigation",
+            "root cause"
+          ],
+          "tips": [
+            "Separate immediate mitigation from the permanent fix.",
+            "Mention how you will confirm recovery."
+          ]
+        },
+        {
+          "id": "q-1794375012-2-659",
+          "question": "What trade-offs would you consider when choosing Python over an alternative for a Java Developer project?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Compare suitability, team familiarity, performance, maintainability, ecosystem maturity, and operational cost. Tie the decision to the project's constraints instead of claiming one tool is always best. State what evidence could change your choice.",
+          "keywords": [
+            "Python",
+            "constraints",
+            "maintainability",
+            "trade-offs"
+          ],
+          "tips": [
+            "Name the context behind your recommendation.",
+            "Show that you can revisit a decision when evidence changes."
+          ]
+        },
+        {
+          "id": "q-1794375012-3-917",
+          "question": "What security or privacy risks should you consider when working with Python?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Identify the data and trust boundaries first, then consider least privilege, input validation, secret management, dependency updates, and logging that avoids exposing sensitive information. Explain how you would test and monitor the controls.",
+          "keywords": [
+            "least privilege",
+            "validation",
+            "secrets",
+            "data privacy"
+          ],
+          "tips": [
+            "Tie risks to the actual data and system boundaries.",
+            "Mention prevention and detection."
+          ]
+        },
+        {
+          "id": "q-1794375012-4-933",
+          "question": "A Java Developer application built with Python has become slow. How would you investigate and improve it?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "First reproduce and measure the slowdown, then use profiling and logs to locate the bottleneck. Form a hypothesis, make one targeted change, and compare before-and-after metrics. Consider correctness and regression tests.",
+          "keywords": [
+            "profiling",
+            "baseline",
+            "bottleneck",
+            "measurement",
+            "regression test"
+          ],
+          "tips": [
+            "Avoid guessing before collecting evidence.",
+            "Explain how you would verify the improvement."
+          ]
+        }
+      ],
+      "source": "Sample"
+    },
+    {
+      "id": "s-1794378232",
+      "created_at": "2026-11-11T09:23:52",
+      "role": "Frontend Developer",
+      "experience": "Beginner",
+      "interview_type": "Mixed",
+      "skills": [
+        "Python",
+        "Problem Solving"
+      ],
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": "q-1794378232-0-754",
+          "question": "A stakeholder asks for a change that conflicts with the current technical plan. How would you handle it as a Frontend Developer?",
+          "category": "Scenario",
+          "difficulty": "Medium",
+          "answer": "Clarify the underlying user need and constraints, explain the technical implications in plain language, and present options with costs and risks. Collaborate on a decision, record it, and revisit it if new evidence emerges.",
+          "keywords": [
+            "clarifying questions",
+            "options",
+            "trade-offs",
+            "alignment"
+          ],
+          "tips": [
+            "Do not frame the discussion as technical versus nontechnical.",
+            "Show how you make the trade-off understandable."
+          ]
+        },
+        {
+          "id": "q-1794378232-1-152",
+          "question": "Why are you interested in this Frontend Developer position, and what would you bring to the team?",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Connect your interest in the role to the team's work, then support your fit with two relevant strengths or examples, such as experience with Python. Finish with the impact you hope to make and a thoughtful question for the interviewer.",
+          "keywords": [
+            "Frontend Developer",
+            "Python",
+            "motivation",
+            "evidence"
+          ],
+          "tips": [
+            "Avoid generic claims; anchor your answer in the job description.",
+            "Keep the answer focused and conversational."
+          ]
+        },
+        {
+          "id": "q-1794378232-2-337",
+          "question": "Describe a disagreement with a teammate and how you reached a resolution.",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Set the context briefly, explain the differing views fairly, and describe how you listened, used evidence, and aligned on a decision. Share the outcome and what you learned about collaboration.",
+          "keywords": [
+            "listening",
+            "evidence",
+            "collaboration",
+            "resolution"
+          ],
+          "tips": [
+            "Show respect for the other person's perspective.",
+            "Choose an example with a constructive outcome."
+          ]
+        },
+        {
+          "id": "q-1794378232-3-548",
+          "question": "A Frontend Developer application built with Python has become slow. How would you investigate and improve it?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "First reproduce and measure the slowdown, then use profiling and logs to locate the bottleneck. Form a hypothesis, make one targeted change, and compare before-and-after metrics. Consider correctness and regression tests.",
+          "keywords": [
+            "profiling",
+            "baseline",
+            "bottleneck",
+            "measurement",
+            "regression test"
+          ],
+          "tips": [
+            "Avoid guessing before collecting evidence.",
+            "Explain how you would verify the improvement."
+          ]
+        },
+        {
+          "id": "q-1794378232-4-878",
+          "question": "What security or privacy risks should you consider when working with Python?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Identify the data and trust boundaries first, then consider least privilege, input validation, secret management, dependency updates, and logging that avoids exposing sensitive information. Explain how you would test and monitor the controls.",
+          "keywords": [
+            "least privilege",
+            "validation",
+            "secrets",
+            "data privacy"
+          ],
+          "tips": [
+            "Tie risks to the actual data and system boundaries.",
+            "Mention prevention and detection."
+          ]
+        },
+        {
+          "id": "q-1794378232-5-388",
+          "question": "You discover a serious bug in a feature using Problem Solving shortly before release. What would you do?",
+          "category": "Scenario",
+          "difficulty": "Medium",
+          "answer": "Assess user impact and release risk, reproduce the issue, and communicate early with the team. Agree on a safe fix or rollback, add a regression test, and document follow-up work. Prioritize user safety over protecting a deadline.",
+          "keywords": [
+            "impact assessment",
+            "communication",
+            "mitigation",
+            "regression test"
+          ],
+          "tips": [
+            "Show calm prioritization and transparent communication.",
+            "Mention when you would escalate or roll back."
+          ]
+        },
+        {
+          "id": "q-1794378232-6-683",
+          "question": "You have several urgent tasks and limited time. How do you decide what to work on first?",
+          "category": "Scenario",
+          "difficulty": "Medium",
+          "answer": "Compare user impact, urgency, dependencies, and risk. Confirm priorities with stakeholders when needed, break the highest-value work into a clear next step, and communicate what will be delayed and why.",
+          "keywords": [
+            "impact",
+            "prioritization",
+            "dependencies",
+            "communication"
+          ],
+          "tips": [
+            "Make the criteria explicit.",
+            "Reassess if new information changes the risk."
+          ]
+        },
+        {
+          "id": "q-1794378232-7-654",
+          "question": "Describe a project that did not go as planned. What did you learn?",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Be candid about the challenge, own your part without blaming others, and explain how you responded. Focus on the lesson, the adjustment you made, and how it improved later work.",
+          "keywords": [
+            "accountability",
+            "adaptability",
+            "lesson",
+            "improvement"
+          ],
+          "tips": [
+            "Pick a real setback with a useful learning outcome.",
+            "Keep the explanation constructive."
+          ]
+        },
+        {
+          "id": "q-1794378232-8-242",
+          "question": "What would you monitor after shipping a feature built with Python?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Choose signals that show both system health and user outcomes: errors, latency, resource use, and a relevant success metric. Set useful thresholds, avoid noisy alerts, and define who responds and how to roll back if needed.",
+          "keywords": [
+            "latency",
+            "errors",
+            "user outcome",
+            "alerting"
+          ],
+          "tips": [
+            "Connect metrics to the feature's purpose.",
+            "Explain what action an alert should trigger."
+          ]
+        },
+        {
+          "id": "q-1794378232-9-568",
+          "question": "How would you test a feature that combines Python and Problem Solving?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Describe a layered strategy: unit tests for logic, integration tests for boundaries between components, and a small number of end-to-end tests for critical user paths. Include edge cases, test data, and how failures are diagnosed.",
+          "keywords": [
+            "unit tests",
+            "integration tests",
+            "edge cases",
+            "end-to-end"
+          ],
+          "tips": [
+            "Choose tests based on risk rather than maximizing test count.",
+            "Explain what should be mocked and what should remain real."
+          ]
+        },
+        {
+          "id": "q-1794378232-10-183",
+          "question": "Tell me about a time you used Python in a project or course. What did you build and what would you improve?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Use a concise STAR structure: explain the project context, your responsibility, how you applied Python, and the measurable outcome. Close with one improvement you would make next time.",
+          "keywords": [
+            "Python",
+            "ownership",
+            "impact",
+            "reflection"
+          ],
+          "tips": [
+            "Keep the focus on your own contribution.",
+            "Include a result or a clear signal of success."
+          ]
+        },
+        {
+          "id": "q-1794378232-11-221",
+          "question": "How would you merge two sorted lists into one sorted list efficiently?",
+          "category": "Coding",
+          "difficulty": "Medium",
+          "answer": "Use two pointers, one for each list. Repeatedly append the smaller current value and advance that pointer, then append the remaining tail. The time complexity is O(n + m); output storage is O(n + m), or O(1) extra space if the required output representation permits in-place merging.",
+          "keywords": [
+            "two pointers",
+            "sorted inputs",
+            "O(n + m)",
+            "remaining tail"
+          ],
+          "tips": [
+            "Explain why the result remains sorted at each step.",
+            "Test when either input is empty."
+          ]
+        },
+        {
+          "id": "q-1794378232-12-153",
+          "question": "An API endpoint used by your Frontend Developer team intermittently returns errors. How would you debug it?",
+          "category": "Scenario",
+          "difficulty": "Medium",
+          "answer": "Establish the error rate and affected requests, correlate logs and traces by request ID, inspect recent changes and dependency health, and reproduce safely. Mitigate user impact first, then fix the root cause and add monitoring or tests to prevent recurrence.",
+          "keywords": [
+            "observability",
+            "request IDs",
+            "mitigation",
+            "root cause"
+          ],
+          "tips": [
+            "Separate immediate mitigation from the permanent fix.",
+            "Mention how you will confirm recovery."
+          ]
+        },
+        {
+          "id": "q-1794378232-13-393",
+          "question": "How would you explain a complex Python concept to a teammate who is new to it?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Start from the teammate's goal and existing knowledge, use a small concrete example, and introduce terminology only when needed. Check understanding, invite questions, and point to a minimal example they can run or inspect.",
+          "keywords": [
+            "audience",
+            "analogy",
+            "example",
+            "feedback"
+          ],
+          "tips": [
+            "Adapt your explanation to the listener.",
+            "Check understanding instead of assuming it."
+          ]
+        },
+        {
+          "id": "q-1794378232-14-844",
+          "question": "Given a list of integers and a target, return the indices of two values that add up to the target.",
+          "category": "Coding",
+          "difficulty": "Medium",
+          "answer": "Scan once while storing each value's index in a hash map. For each value, check whether target minus value is already present; if so, return the two indices. This gives O(n) expected time and O(n) space. Clarify duplicate and no-solution behavior.",
+          "keywords": [
+            "hash map",
+            "complement",
+            "O(n)",
+            "duplicates"
+          ],
+          "tips": [
+            "Ask whether one solution is guaranteed.",
+            "Do not reuse the same element twice."
+          ]
+        },
+        {
+          "id": "q-1794378232-15-146",
+          "question": "How do you keep a Frontend Developer codebase maintainable as features and contributors grow?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Keep modules cohesive, make interfaces clear, automate formatting and tests, document important decisions, and review changes constructively. Refactor incrementally when complexity starts slowing delivery, while protecting behavior with tests.",
+          "keywords": [
+            "modularity",
+            "tests",
+            "code review",
+            "incremental refactoring"
+          ],
+          "tips": [
+            "Give an example of a maintainability practice you have used.",
+            "Balance clean design with delivery needs."
+          ]
+        },
+        {
+          "id": "q-1794378232-16-932",
+          "question": "Tell me about a time you received critical feedback. How did you respond?",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Choose a specific example, explain what the feedback was, and show how you clarified it and acted on it. Finish with the change you made and what improved. Demonstrate openness without becoming defensive.",
+          "keywords": [
+            "self-awareness",
+            "action",
+            "growth",
+            "outcome"
+          ],
+          "tips": [
+            "Use a real, work-relevant example.",
+            "Focus on what you changed rather than judging the person who gave feedback."
+          ]
+        },
+        {
+          "id": "q-1794378232-17-472",
+          "question": "What is one professional strength you rely on, and when has it made a difference?",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Name a job-relevant strength and prove it with a concise example. Explain the action you took and the result, then connect it to how you would contribute in this role.",
+          "keywords": [
+            "strength",
+            "example",
+            "impact",
+            "role fit"
+          ],
+          "tips": [
+            "Be specific rather than listing several strengths.",
+            "Support the claim with an observable result."
+          ]
+        },
+        {
+          "id": "q-1794378232-18-982",
+          "question": "How would you remove duplicate values from a collection while preserving the original order?",
+          "category": "Coding",
+          "difficulty": "Medium",
+          "answer": "Track values in a set and append a value to a result list only the first time it appears. This is O(n) expected time and O(n) additional space. Discuss whether values are hashable and how equality is defined.",
+          "keywords": [
+            "set",
+            "stable order",
+            "O(n)",
+            "hashability"
+          ],
+          "tips": [
+            "State the ordering requirement explicitly.",
+            "Consider empty input and repeated values."
+          ]
+        },
+        {
+          "id": "q-1794378232-19-845",
+          "question": "Write a function that finds the first non-repeating character in a string. Explain its time and space complexity.",
+          "category": "Coding",
+          "difficulty": "Medium",
+          "answer": "Count character frequencies in one pass, then scan the string in order and return the first character whose count is one. This is O(n) time and O(k) space, where k is the number of distinct characters. Clarify behavior for an empty string or no unique character.",
+          "keywords": [
+            "frequency map",
+            "two passes",
+            "O(n)",
+            "edge cases"
+          ],
+          "tips": [
+            "Clarify input assumptions and expected return value first.",
+            "Walk through a short example and test an empty input."
+          ]
+        }
+      ],
+      "source": "Sample"
+    },
+    {
+      "id": "s-1794378358",
+      "created_at": "2026-11-11T09:25:57",
+      "role": "Frontend Developer",
+      "experience": "Beginner",
+      "interview_type": "Mixed",
+      "skills": [
+        "Python",
+        "Problem Solving"
+      ],
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": "q-1794378358-0-725",
+          "question": "How would you remove duplicate values from a collection while preserving the original order?",
+          "category": "Coding",
+          "difficulty": "Medium",
+          "answer": "Track values in a set and append a value to a result list only the first time it appears. This is O(n) expected time and O(n) additional space. Discuss whether values are hashable and how equality is defined.",
+          "keywords": [
+            "set",
+            "stable order",
+            "O(n)",
+            "hashability"
+          ],
+          "tips": [
+            "State the ordering requirement explicitly.",
+            "Consider empty input and repeated values."
+          ]
+        },
+        {
+          "id": "q-1794378358-1-662",
+          "question": "A stakeholder asks for a change that conflicts with the current technical plan. How would you handle it as a Frontend Developer?",
+          "category": "Scenario",
+          "difficulty": "Medium",
+          "answer": "Clarify the underlying user need and constraints, explain the technical implications in plain language, and present options with costs and risks. Collaborate on a decision, record it, and revisit it if new evidence emerges.",
+          "keywords": [
+            "clarifying questions",
+            "options",
+            "trade-offs",
+            "alignment"
+          ],
+          "tips": [
+            "Do not frame the discussion as technical versus nontechnical.",
+            "Show how you make the trade-off understandable."
+          ]
+        },
+        {
+          "id": "q-1794378358-2-533",
+          "question": "Describe a disagreement with a teammate and how you reached a resolution.",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Set the context briefly, explain the differing views fairly, and describe how you listened, used evidence, and aligned on a decision. Share the outcome and what you learned about collaboration.",
+          "keywords": [
+            "listening",
+            "evidence",
+            "collaboration",
+            "resolution"
+          ],
+          "tips": [
+            "Show respect for the other person's perspective.",
+            "Choose an example with a constructive outcome."
+          ]
+        },
+        {
+          "id": "q-1794378358-3-914",
+          "question": "Describe a project that did not go as planned. What did you learn?",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Be candid about the challenge, own your part without blaming others, and explain how you responded. Focus on the lesson, the adjustment you made, and how it improved later work.",
+          "keywords": [
+            "accountability",
+            "adaptability",
+            "lesson",
+            "improvement"
+          ],
+          "tips": [
+            "Pick a real setback with a useful learning outcome.",
+            "Keep the explanation constructive."
+          ]
+        },
+        {
+          "id": "q-1794378358-4-217",
+          "question": "What would you monitor after shipping a feature built with Python?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Choose signals that show both system health and user outcomes: errors, latency, resource use, and a relevant success metric. Set useful thresholds, avoid noisy alerts, and define who responds and how to roll back if needed.",
+          "keywords": [
+            "latency",
+            "errors",
+            "user outcome",
+            "alerting"
+          ],
+          "tips": [
+            "Connect metrics to the feature's purpose.",
+            "Explain what action an alert should trigger."
+          ]
+        },
+        {
+          "id": "q-1794378358-5-183",
+          "question": "How would you explain a complex Python concept to a teammate who is new to it?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Start from the teammate's goal and existing knowledge, use a small concrete example, and introduce terminology only when needed. Check understanding, invite questions, and point to a minimal example they can run or inspect.",
+          "keywords": [
+            "audience",
+            "analogy",
+            "example",
+            "feedback"
+          ],
+          "tips": [
+            "Adapt your explanation to the listener.",
+            "Check understanding instead of assuming it."
+          ]
+        },
+        {
+          "id": "q-1794378358-6-780",
+          "question": "How would you merge two sorted lists into one sorted list efficiently?",
+          "category": "Coding",
+          "difficulty": "Medium",
+          "answer": "Use two pointers, one for each list. Repeatedly append the smaller current value and advance that pointer, then append the remaining tail. The time complexity is O(n + m); output storage is O(n + m), or O(1) extra space if the required output representation permits in-place merging.",
+          "keywords": [
+            "two pointers",
+            "sorted inputs",
+            "O(n + m)",
+            "remaining tail"
+          ],
+          "tips": [
+            "Explain why the result remains sorted at each step.",
+            "Test when either input is empty."
+          ]
+        },
+        {
+          "id": "q-1794378358-7-128",
+          "question": "How do you keep a Frontend Developer codebase maintainable as features and contributors grow?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Keep modules cohesive, make interfaces clear, automate formatting and tests, document important decisions, and review changes constructively. Refactor incrementally when complexity starts slowing delivery, while protecting behavior with tests.",
+          "keywords": [
+            "modularity",
+            "tests",
+            "code review",
+            "incremental refactoring"
+          ],
+          "tips": [
+            "Give an example of a maintainability practice you have used.",
+            "Balance clean design with delivery needs."
+          ]
+        },
+        {
+          "id": "q-1794378358-8-666",
+          "question": "Tell me about a time you received critical feedback. How did you respond?",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Choose a specific example, explain what the feedback was, and show how you clarified it and acted on it. Finish with the change you made and what improved. Demonstrate openness without becoming defensive.",
+          "keywords": [
+            "self-awareness",
+            "action",
+            "growth",
+            "outcome"
+          ],
+          "tips": [
+            "Use a real, work-relevant example.",
+            "Focus on what you changed rather than judging the person who gave feedback."
+          ]
+        },
+        {
+          "id": "q-1794378358-9-535",
+          "question": "Given a list of integers and a target, return the indices of two values that add up to the target.",
+          "category": "Coding",
+          "difficulty": "Medium",
+          "answer": "Scan once while storing each value's index in a hash map. For each value, check whether target minus value is already present; if so, return the two indices. This gives O(n) expected time and O(n) space. Clarify duplicate and no-solution behavior.",
+          "keywords": [
+            "hash map",
+            "complement",
+            "O(n)",
+            "duplicates"
+          ],
+          "tips": [
+            "Ask whether one solution is guaranteed.",
+            "Do not reuse the same element twice."
+          ]
+        },
+        {
+          "id": "q-1794378358-10-393",
+          "question": "How would you test a feature that combines Python and Problem Solving?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Describe a layered strategy: unit tests for logic, integration tests for boundaries between components, and a small number of end-to-end tests for critical user paths. Include edge cases, test data, and how failures are diagnosed.",
+          "keywords": [
+            "unit tests",
+            "integration tests",
+            "edge cases",
+            "end-to-end"
+          ],
+          "tips": [
+            "Choose tests based on risk rather than maximizing test count.",
+            "Explain what should be mocked and what should remain real."
+          ]
+        },
+        {
+          "id": "q-1794378358-11-380",
+          "question": "An API endpoint used by your Frontend Developer team intermittently returns errors. How would you debug it?",
+          "category": "Scenario",
+          "difficulty": "Medium",
+          "answer": "Establish the error rate and affected requests, correlate logs and traces by request ID, inspect recent changes and dependency health, and reproduce safely. Mitigate user impact first, then fix the root cause and add monitoring or tests to prevent recurrence.",
+          "keywords": [
+            "observability",
+            "request IDs",
+            "mitigation",
+            "root cause"
+          ],
+          "tips": [
+            "Separate immediate mitigation from the permanent fix.",
+            "Mention how you will confirm recovery."
+          ]
+        },
+        {
+          "id": "q-1794378358-12-356",
+          "question": "What kind of team environment helps you do your best work?",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Describe a few specific conditions—such as clear goals, candid communication, and room to take ownership—and explain how you contribute to creating them. Show flexibility across working styles.",
+          "keywords": [
+            "communication",
+            "ownership",
+            "teamwork",
+            "adaptability"
+          ],
+          "tips": [
+            "Keep the answer positive and job-relevant.",
+            "Explain what you personally do to support the environment."
+          ]
+        },
+        {
+          "id": "q-1794378358-13-611",
+          "question": "How does Python work, and what problem does it solve in a Frontend Developer role?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Start with the purpose of Python, outline its core mechanism, then connect it to a concrete Frontend Developer use case. Mention one trade-off or limitation.",
+          "keywords": [
+            "Python",
+            "core concepts",
+            "use case",
+            "trade-off"
+          ],
+          "tips": [
+            "Define the concept before diving into details.",
+            "Use a small example and explain when you would choose another approach."
+          ]
+        },
+        {
+          "id": "q-1794378358-14-860",
+          "question": "Why are you interested in this Frontend Developer position, and what would you bring to the team?",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Connect your interest in the role to the team's work, then support your fit with two relevant strengths or examples, such as experience with Python. Finish with the impact you hope to make and a thoughtful question for the interviewer.",
+          "keywords": [
+            "Frontend Developer",
+            "Python",
+            "motivation",
+            "evidence"
+          ],
+          "tips": [
+            "Avoid generic claims; anchor your answer in the job description.",
+            "Keep the answer focused and conversational."
+          ]
+        },
+        {
+          "id": "q-1794378358-15-442",
+          "question": "You discover a serious bug in a feature using Problem Solving shortly before release. What would you do?",
+          "category": "Scenario",
+          "difficulty": "Medium",
+          "answer": "Assess user impact and release risk, reproduce the issue, and communicate early with the team. Agree on a safe fix or rollback, add a regression test, and document follow-up work. Prioritize user safety over protecting a deadline.",
+          "keywords": [
+            "impact assessment",
+            "communication",
+            "mitigation",
+            "regression test"
+          ],
+          "tips": [
+            "Show calm prioritization and transparent communication.",
+            "Mention when you would escalate or roll back."
+          ]
+        },
+        {
+          "id": "q-1794378358-16-724",
+          "question": "Tell me about a time you had to learn something quickly to complete a task.",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Describe the goal and time constraint, how you broke the topic into learnable pieces, and how you applied the learning—perhaps with Python. Finish with the result and how you validated your understanding.",
+          "keywords": [
+            "learning plan",
+            "initiative",
+            "application",
+            "validation"
+          ],
+          "tips": [
+            "Show how you decided what to learn first.",
+            "Mention a concrete outcome."
+          ]
+        },
+        {
+          "id": "q-1794378358-17-410",
+          "question": "A Frontend Developer application built with Python has become slow. How would you investigate and improve it?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "First reproduce and measure the slowdown, then use profiling and logs to locate the bottleneck. Form a hypothesis, make one targeted change, and compare before-and-after metrics. Consider correctness and regression tests.",
+          "keywords": [
+            "profiling",
+            "baseline",
+            "bottleneck",
+            "measurement",
+            "regression test"
+          ],
+          "tips": [
+            "Avoid guessing before collecting evidence.",
+            "Explain how you would verify the improvement."
+          ]
+        },
+        {
+          "id": "q-1794378358-18-534",
+          "question": "Tell me about a time you used Python in a project or course. What did you build and what would you improve?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Use a concise STAR structure: explain the project context, your responsibility, how you applied Python, and the measurable outcome. Close with one improvement you would make next time.",
+          "keywords": [
+            "Python",
+            "ownership",
+            "impact",
+            "reflection"
+          ],
+          "tips": [
+            "Keep the focus on your own contribution.",
+            "Include a result or a clear signal of success."
+          ]
+        },
+        {
+          "id": "q-1794378358-19-206",
+          "question": "You have several urgent tasks and limited time. How do you decide what to work on first?",
+          "category": "Scenario",
+          "difficulty": "Medium",
+          "answer": "Compare user impact, urgency, dependencies, and risk. Confirm priorities with stakeholders when needed, break the highest-value work into a clear next step, and communicate what will be delayed and why.",
+          "keywords": [
+            "impact",
+            "prioritization",
+            "dependencies",
+            "communication"
+          ],
+          "tips": [
+            "Make the criteria explicit.",
+            "Reassess if new information changes the risk."
+          ]
+        }
+      ],
+      "source": "Sample"
+    },
+    {
+      "id": "s-1794647233",
+      "created_at": "2026-11-14T14:37:12",
+      "role": "Python Developer",
+      "experience": "Beginner",
+      "interview_type": "HR",
+      "skills": [
+        "Python",
+        "Problem Solving",
+        "APIs",
+        "Git",
+        "Data Analysis"
+      ],
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": "q-1794647233-0-843",
+          "question": "Tell me about a time you received critical feedback. How did you respond?",
+          "category": "HR",
+          "difficulty": "Easy",
+          "answer": "Choose a specific example, explain what the feedback was, and show how you clarified it and acted on it. Finish with the change you made and what improved. Demonstrate openness without becoming defensive.",
+          "keywords": [
+            "self-awareness",
+            "action",
+            "growth",
+            "outcome"
+          ],
+          "tips": [
+            "Use a real, work-relevant example.",
+            "Focus on what you changed rather than judging the person who gave feedback."
+          ]
+        },
+        {
+          "id": "q-1794647233-1-771",
+          "question": "What is one professional strength you rely on, and when has it made a difference?",
+          "category": "HR",
+          "difficulty": "Easy",
+          "answer": "Name a job-relevant strength and prove it with a concise example. Explain the action you took and the result, then connect it to how you would contribute in this role.",
+          "keywords": [
+            "strength",
+            "example",
+            "impact",
+            "role fit"
+          ],
+          "tips": [
+            "Be specific rather than listing several strengths.",
+            "Support the claim with an observable result."
+          ]
+        },
+        {
+          "id": "q-1794647233-2-749",
+          "question": "Describe a disagreement with a teammate and how you reached a resolution.",
+          "category": "HR",
+          "difficulty": "Easy",
+          "answer": "Set the context briefly, explain the differing views fairly, and describe how you listened, used evidence, and aligned on a decision. Share the outcome and what you learned about collaboration.",
+          "keywords": [
+            "listening",
+            "evidence",
+            "collaboration",
+            "resolution"
+          ],
+          "tips": [
+            "Show respect for the other person's perspective.",
+            "Choose an example with a constructive outcome."
+          ]
+        },
+        {
+          "id": "q-1794647233-3-567",
+          "question": "What kind of team environment helps you do your best work?",
+          "category": "HR",
+          "difficulty": "Easy",
+          "answer": "Describe a few specific conditions—such as clear goals, candid communication, and room to take ownership—and explain how you contribute to creating them. Show flexibility across working styles.",
+          "keywords": [
+            "communication",
+            "ownership",
+            "teamwork",
+            "adaptability"
+          ],
+          "tips": [
+            "Keep the answer positive and job-relevant.",
+            "Explain what you personally do to support the environment."
+          ]
+        },
+        {
+          "id": "q-1794647233-4-578",
+          "question": "Why are you interested in this Python Developer position, and what would you bring to the team?",
+          "category": "HR",
+          "difficulty": "Easy",
+          "answer": "Connect your interest in the role to the team's work, then support your fit with two relevant strengths or examples, such as experience with Python. Finish with the impact you hope to make and a thoughtful question for the interviewer.",
+          "keywords": [
+            "Python Developer",
+            "Python",
+            "motivation",
+            "evidence"
+          ],
+          "tips": [
+            "Avoid generic claims; anchor your answer in the job description.",
+            "Keep the answer focused and conversational."
+          ]
+        }
+      ],
+      "source": "Sample"
+    },
+    {
+      "id": "mock-1794647566",
+      "created_at": "2026-11-14T14:42:46",
+      "role": "Python Developer",
+      "experience": "Mock interview",
+      "interview_type": "Completed",
+      "questions": [],
+      "mock_answer_count": 1
+    },
+    {
+      "id": "s-1794649264",
+      "created_at": "2026-11-14T15:11:04",
+      "role": "Java Developer",
+      "experience": "Beginner",
+      "interview_type": "Mixed",
+      "skills": [
+        "Python",
+        "Problem Solving"
+      ],
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": "q-1794649264-0-331",
+          "question": "What would you monitor after shipping a feature built with Python?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Choose signals that show both system health and user outcomes: errors, latency, resource use, and a relevant success metric. Set useful thresholds, avoid noisy alerts, and define who responds and how to roll back if needed.",
+          "keywords": [
+            "latency",
+            "errors",
+            "user outcome",
+            "alerting"
+          ],
+          "tips": [
+            "Connect metrics to the feature's purpose.",
+            "Explain what action an alert should trigger."
+          ]
+        },
+        {
+          "id": "q-1794649264-1-171",
+          "question": "What is one professional strength you rely on, and when has it made a difference?",
+          "category": "HR",
+          "difficulty": "Medium",
+          "answer": "Name a job-relevant strength and prove it with a concise example. Explain the action you took and the result, then connect it to how you would contribute in this role.",
+          "keywords": [
+            "strength",
+            "example",
+            "impact",
+            "role fit"
+          ],
+          "tips": [
+            "Be specific rather than listing several strengths.",
+            "Support the claim with an observable result."
+          ]
+        },
+        {
+          "id": "q-1794649264-2-467",
+          "question": "A Java Developer application built with Python has become slow. How would you investigate and improve it?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "First reproduce and measure the slowdown, then use profiling and logs to locate the bottleneck. Form a hypothesis, make one targeted change, and compare before-and-after metrics. Consider correctness and regression tests.",
+          "keywords": [
+            "profiling",
+            "baseline",
+            "bottleneck",
+            "measurement",
+            "regression test"
+          ],
+          "tips": [
+            "Avoid guessing before collecting evidence.",
+            "Explain how you would verify the improvement."
+          ]
+        },
+        {
+          "id": "q-1794649264-3-945",
+          "question": "You have several urgent tasks and limited time. How do you decide what to work on first?",
+          "category": "Scenario",
+          "difficulty": "Medium",
+          "answer": "Compare user impact, urgency, dependencies, and risk. Confirm priorities with stakeholders when needed, break the highest-value work into a clear next step, and communicate what will be delayed and why.",
+          "keywords": [
+            "impact",
+            "prioritization",
+            "dependencies",
+            "communication"
+          ],
+          "tips": [
+            "Make the criteria explicit.",
+            "Reassess if new information changes the risk."
+          ]
+        },
+        {
+          "id": "q-1794649264-4-725",
+          "question": "How would you test a feature that combines Python and Problem Solving?",
+          "category": "Technical",
+          "difficulty": "Medium",
+          "answer": "Describe a layered strategy: unit tests for logic, integration tests for boundaries between components, and a small number of end-to-end tests for critical user paths. Include edge cases, test data, and how failures are diagnosed.",
+          "keywords": [
+            "unit tests",
+            "integration tests",
+            "edge cases",
+            "end-to-end"
+          ],
+          "tips": [
+            "Choose tests based on risk rather than maximizing test count.",
+            "Explain what should be mocked and what should remain real."
+          ]
+        }
+      ],
+      "source": "Sample"
+    },
+    {
+      "id": "mock-1794649373",
+      "created_at": "2026-11-14T15:12:52",
+      "role": "Java Developer",
+      "experience": "Mock interview",
+      "interview_type": "Completed",
+      "questions": [],
+      "mock_answer_count": 0
+    }
+  ],
+  "saved_questions": [
+    {
+      "id": "q-1794647233-1-771",
+      "question": "What is one professional strength you rely on, and when has it made a difference?",
+      "category": "HR",
+      "difficulty": "Easy",
+      "answer": "Name a job-relevant strength and prove it with a concise example. Explain the action you took and the result, then connect it to how you would contribute in this role.",
+      "keywords": [
+        "strength",
+        "example",
+        "impact",
+        "role fit"
+      ],
+      "tips": [
+        "Be specific rather than listing several strengths.",
+        "Support the claim with an observable result."
+      ],
+      "role": "Python Developer"
+    },
+    {
+      "id": "q-1794647233-3-567",
+      "question": "What kind of team environment helps you do your best work?",
+      "category": "HR",
+      "difficulty": "Easy",
+      "answer": "Describe a few specific conditions—such as clear goals, candid communication, and room to take ownership—and explain how you contribute to creating them. Show flexibility across working styles.",
+      "keywords": [
+        "communication",
+        "ownership",
+        "teamwork",
+        "adaptability"
+      ],
+      "tips": [
+        "Keep the answer positive and job-relevant.",
+        "Explain what you personally do to support the environment."
+      ],
+      "role": "Python Developer"
+    }
+  ],
+  "mock_interviews_completed": 2
+}
